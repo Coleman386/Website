@@ -7,7 +7,6 @@ I will post blogs of whatever I feel like on this website. I think doing a movie
 <img src="http://Coleman386.github.io/Website/assets/bobross1.jpg" > 
 I like this painting because it is so simple, yet so detailed. Additionally, Bob Ross only took 1 hour to make a painting like this, he was a true master.
 
-One pro of using the static website is that it is a great way to get information out to people in an easy to read way. A con for a static website is that it will do nothing else but display the html pages that have already been setup. 
 
 
 
