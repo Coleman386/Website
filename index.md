@@ -45,3 +45,13 @@ The Marketing of the website is also very important, but normally comes down to 
 
 
 
+### 4/30/2020
+My authoring process is to just write how I feel. That part has not changed, as in my first post ever on my blog, I wrote, “I will post blogs of whatever I feel like on this website”. I have stuck to my roots, probably because it has only been 2 months since that post. 
+
+My collection, management and publishing system are very basic. For collection, I just manually type out a post, and add pictures if needed. For management, I just edit the post if I find something that needs changed. For publishing, I use a pre-built formatter that themes my posts for me. However, this is exactly what I wanted. An easy to use and maintain website that took minimal time investment. This is why people use website makers online like WordPress and SquareSpace.
+
+The biggest takeaways I have learned from this class is to start the website off with a good backend foundation. In other words, if you plan on making a website that millions of users are going to use, make sure your backend can support that many users. On the flip side, if only a few users are going to use your website, a perfect backend isn’t required, just get something simple put up. 
+
+My website’s main weakness I think is the lack of a search bar or any type of organization. When I built my website, I thought I would be making short posts every week, so the amount of content wouldn’t get out of control. However, there were a few weeks where I posted a very long post (including this one). This has led to my website requiring a lot of scrolling to get from post to post. I didn’t account for this initially, and it is a terrible user experience. 
+
+
